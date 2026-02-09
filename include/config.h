@@ -16,4 +16,8 @@
 // BLE device name
 #define BLE_DEVICE_NAME "iot-navigation"
 
+// WIFI credentials (replace with your network's SSID and password)
+#define WIFI_SSID "home_network"
+#define WIFI_PASSWORD "45185634"
+
 #endif

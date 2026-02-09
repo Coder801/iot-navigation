@@ -93,5 +93,5 @@ String getReceivedMessage() {
 }
 
 void clearReceivedMessage() {
-	receivedMessage = "Hello";
+	receivedMessage = "";
 }
